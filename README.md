@@ -18,4 +18,6 @@ A **FREE** to use scoreboard for any recreational or household sporting event ðŸ
 
 ![scoreboard](https://user-images.githubusercontent.com/85086293/176738545-1c93e621-8f67-46fa-99ba-c178b51cfa52.JPG)
 
+#### Tech/Libraries used:
 
+React, Firebase, Node, easytimer-react-hook, useSound
